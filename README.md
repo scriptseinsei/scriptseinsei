@@ -1,5 +1,3 @@
-![Banner](./A_GitHub_README_image_of_Scripsteinsei,_a_cybersec.png)
-
 <h1 align="center">Salut, moi c'est Scripteinsei</h1>
 <p align="center">Jeune passionné de cybersécurité, hacking éthique et développement de compétences tech en Afrique</p>
 
